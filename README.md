@@ -21,17 +21,16 @@ I) Removed null values and inconsistent entries.
 II) Formatted dates, standardized categories.
 
 3) Data Analysis (Using MySQL):
-I) Performed SQL queries to:
-II) Calculate total revenue, order count, pizzas sold.
-III) Identify best/worst-selling items.
-IV) Analyze trends by day/hour, size, and category.
+I) Performed SQL queries to: Calculate total revenue, order count, pizzas sold.
+II) Identify best/worst-selling items.
+III) Analyze trends by day/hour, size, and category.
 
 5) Data Export:
 Exported query results into Power BI for visualization.
 
 6) Dashboard Creation (Power BI):
-Used KPI's, Slicers, and Charts to create an interactive dashboard.
-Highlighted KPIs and trends for clear storytelling.
+I) Used KPI's, Slicers, and Charts to create an interactive dashboard.
+II) Highlighted KPIs and trends for clear storytelling.
 
 7) Insight Extraction:
 Interpreted data to generate business insights and conclusions.
@@ -40,18 +39,26 @@ Interpreted data to generate business insights and conclusions.
 This project uncovered several valuable insights from the pizza sales data:
 
 1) Revenue Trends:
-Total revenue generated: $817,860.
-Sales peak during weekends, especially Fridays and Thursday.
+I) Total revenue generated: $817,860.
+II) Sales peak during weekends, especially Fridays and Thursday.
 
 2) Customer Behavior:
-Customers generally order 2–3 pizzas per order.
-Most preferred pizza size: Large.
-Preferred pizza category: Classic.
+I) Customers generally order 2–3 pizzas per order.
+II) Most preferred pizza size: Large.
+III) Preferred pizza category: Classic.
 
 3) Top Performers:
-Best-selling pizza: Classic Deluxe Pizza.
-Highest revenue-generating category: Classic.
+I) Best-selling pizza: Classic Deluxe Pizza.
+II) Highest revenue-generating category: Classic.
 
 4) Poor Performers:
-Least popular pizzas: Brie Carre Pizza, Mediterranean Pizza.
-These insights help understand customer preferences, ideal marketing hours, and inventory planning.
+I) Least popular pizzas: Brie Carre Pizza, Mediterranean Pizza.
+II) These insights help understand customer preferences, ideal marketing hours, and inventory planning.
+
+# 🧾 Final Conclusion
+The pizza sales data analysis provided critical business insights that can guide strategic decision-making. By understanding peak sales hours, customer preferences, and top-performing products, the business can:
+
+I) Optimize inventory and staffing on weekends and peak hours
+II) Promote best-selling pizzas and upsell large-sized items
+III) Review marketing strategies for underperforming products
+IV) This project demonstrates the power of combining SQL for analysis and POwer BI for visualization to extract value from raw data.
