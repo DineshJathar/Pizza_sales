@@ -55,6 +55,10 @@ II) Highest revenue-generating category: Classic.
 I) Least popular pizzas: Brie Carre Pizza, Mediterranean Pizza.
 II) These insights help understand customer preferences, ideal marketing hours, and inventory planning.
 
+<img width="871" height="497" alt="pizza" src="https://github.com/user-attachments/assets/8014fcd8-c069-4850-86fe-aa56f3f66325" />
+
+
+
 # 🧾 Final Conclusion
 The pizza sales data analysis provided critical business insights that can guide strategic decision-making. By understanding peak sales hours, customer preferences, and top-performing products, the business can:
 
