@@ -16,15 +16,15 @@ Pivot Tables & Charts – For visual insights
 1) Data Collection:
 Pizza sales dataset imported into MySQL for structured storage and querying.
 
-3) Data Cleaning & Preparation:
-Removed null values and inconsistent entries.
-Formatted dates, standardized categories.
+2) Data Cleaning & Preparation:
+I) Removed null values and inconsistent entries.
+II) Formatted dates, standardized categories.
 
 3) Data Analysis (Using MySQL):
-Performed SQL queries to:
-Calculate total revenue, order count, pizzas sold.
-Identify best/worst-selling items.
-Analyze trends by day/hour, size, and category.
+I) Performed SQL queries to:
+II) Calculate total revenue, order count, pizzas sold.
+III) Identify best/worst-selling items.
+IV) Analyze trends by day/hour, size, and category.
 
 5) Data Export:
 Exported query results into Power BI for visualization.
